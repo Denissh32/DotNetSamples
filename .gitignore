@@ -1,0 +1,7 @@
+Weather/WeatherApp/obj/
+Weather/WeatherApp/.vs/
+Weather/Weather.Core/obj/
+Weather/Weather.Reporting/obj/
+Weather/Weather.Service/obj/
+Weather/Weather.Service/Web.Debug.config
+Weather/Weather.Service/Web.Release.config
